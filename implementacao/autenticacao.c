@@ -11,10 +11,10 @@ int autenticar(char *usuario) {
     char senhaArquivo[50];
 
     printf("Login: ");
-    scanf("%s", login);
+    scanf("%49s", login);
 
     printf("Senha: ");
-    scanf("%s", senha);
+    scanf("%49s", senha);
 
     FILE *arquivo = fopen("../dados/usuarios.csv", "r");
 
@@ -24,7 +24,7 @@ int autenticar(char *usuario) {
     }
 
     while (fgets(linha, sizeof(linha), arquivo)) {
-        sscanf(linha, "%[^,],%s", loginArquivo, senhaArquivo);
+        sscanf(linha, "%49[^,],%49[^\n]", loginArquivo, senhaArquivo);
 
         if (strcmp(login, loginArquivo) == 0 &&
             strcmp(senha, senhaArquivo) == 0) {
@@ -42,6 +42,6 @@ int autenticar(char *usuario) {
 
     registrarLog(login, "LOGIN_FALHOU");
     printf("Login ou senha incorretos!\n");
-
+ 
     return 0;
 }
