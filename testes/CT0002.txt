@@ -1,0 +1,5 @@
+O programa deve exibir uma mensagem de
+sucesso e direcionar o usuário para o menu
+principal. Um registro deverá ser inserido no
+arquivo de logs, indicando que a operação de login
+para o usuário em questão foi bem-sucedida.

@@ -1,0 +1,5 @@
+O programa deve remover o registro do arquivo de
+dados e exibir uma mensagem de sucesso na tela.
+A exclusão deve ser obrigatoriamente registrada no
+arquivo de logs, indicando qual usuário foi o
+responsável pela ação

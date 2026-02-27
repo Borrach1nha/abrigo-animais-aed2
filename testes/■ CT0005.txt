@@ -1,0 +1,5 @@
+O programa deve ler o arquivo, exibir todos os
+registros na tela com um contador de linha para
+cada item. Deve replicar a listagem no arquivo de
+saída. Deve inserir um registro no arquivo de logs
+informando qual usuário realizou a visualização.

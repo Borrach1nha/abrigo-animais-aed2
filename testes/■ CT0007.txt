@@ -1,0 +1,5 @@
+O programa deve exibir os dados do registro
+encontrado na tela. Além disso, deve armazenar o
+resultado dessa busca no arquivo de saída. No
+arquivo de logs, deve ser registrado o termo
+pesquisado e o usuário que fez a busca.

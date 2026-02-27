@@ -1,0 +1,5 @@
+O programa deve solicitar os dados um a um e
+persistir o novo item no arquivo de dados (.csv).
+Deve exibir uma mensagem de sucesso na tela. A
+operação de inserção deve ter inserido também
+um novo registro no log.

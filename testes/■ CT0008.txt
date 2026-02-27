@@ -1,0 +1,5 @@
+O programa deve exibir uma mensagem de erro
+informando que nenhum registro foi encontrado.
+Deve registrar no arquivo de logs o termo que foi
+pesquisado e o usuário, mantendo o histórico da
+tentativa.

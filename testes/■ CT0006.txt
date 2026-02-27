@@ -1,0 +1,4 @@
+O programa deve informar ao usuário que não
+existem registros cadastrados (mensagem na tela).
+Ainda assim, deve registrar no arquivo de logs que
+a consulta foi realizada pelo usuário

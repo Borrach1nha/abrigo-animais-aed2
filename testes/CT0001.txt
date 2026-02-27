@@ -1,0 +1,3 @@
+O programa deve exibir uma mensagem de erro na
+tela. Um registro deverá ser inserido no arquivo de
+logs registrando a ocorrência.

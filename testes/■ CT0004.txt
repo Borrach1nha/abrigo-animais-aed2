@@ -1,0 +1,5 @@
+O programa deve identificar a duplicidade (pois a
+chave deve ser única para permitir edição/exclusão
+futura) e exibir uma mensagem de erro informando
+que o ID já está em uso. O novo registro não deve
+ser salvo no arquivo.

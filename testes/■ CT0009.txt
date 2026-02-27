@@ -1,0 +1,4 @@
+O programa deve exibir uma mensagem de erro na
+tela informando que o registro não foi encontrado.
+O arquivo de dados original deve permanecer
+inalterado.
